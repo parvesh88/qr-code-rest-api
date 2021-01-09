@@ -19,6 +19,7 @@
 <br>
 <b>Successfully tested with following REST API Clients</b>
 <ol>
+<li>cURL</li>
 <li>Jersey REST Client API</li>
 <li>HTML FORM API</li>
 <li>POSTMAN - Chrome Web App or Native App</li>
@@ -28,7 +29,6 @@
 <b>Note: </b>
 <ul>
 <li>THIS API IS UNDER DEVELOPMENT.</li>
-<li><u>cURL</u> is unable to retrieve appropriate data from this REST API.</li>
 </ul>
 <br>
 </html>
