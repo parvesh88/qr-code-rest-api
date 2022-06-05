@@ -1,6 +1,6 @@
 <html>
 <b>HTTP URL</b><br>
-<p><strike>http://147.139.40.53/QRC/api</strike></p>
+<div><strike>http://147.139.40.53/QRC/api</strike></div>
 <br>
 <b>Parameter</b>
 <p><b>file </b>= [ QR Code Image File Name (with full path) ]</p>
