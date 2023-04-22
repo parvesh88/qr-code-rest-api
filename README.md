@@ -1,22 +1,23 @@
 <html>
-<b>HTTP URL</b><br>
+<b>API ENDPOINT</b>
+</br>
 <pre><strike>http://147.139.40.53/QRC/api</strike></pre>
 <br>
 <b>Parameter</b>
 <p><b>file </b>= [ QR Code Image File Name (with full path) ]</p>
-<br>
+</br>
 <b>Supported HTTP Method</b>
 <ul>
 <li>POST</li>
 </ul>
-<br>
-<b>Supported Response Type</b>
+</br>
+<b>Supported Response Media Types</b>
 <ol>
 <li>Plain Text</li>
 <li>JSON</li>
 <li>HTML</li>
 </ol>
-<br>
+</br>
 <b>Successfully tested with following REST API Clients</b>
 <ol>
 <li>cURL</li>
@@ -25,10 +26,10 @@
 <li>POSTMAN - Chrome Web App or Native App</li>
 <li>Mozilla Firefox Web Browser - Developer Tool </li>
 </ol>
-<br>
+</br>
 <b>Note: </b>
 <ul>
 <li>THIS API IS UNDER DEVELOPMENT.</li>
 </ul>
-<br>
+</br>
 </html>
