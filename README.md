@@ -3,7 +3,7 @@
 </br>
 <pre><strike>http://147.139.40.53/QRC/api</strike></pre>
 <br>
-<b>Parameter</b>
+<b>Multipart Form Data Parameter</b>
 <p><b>file </b>= [ QR Code Image File Name (with full path) ]</p>
 </br>
 <b>Supported HTTP Method</b>
