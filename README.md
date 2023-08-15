@@ -27,9 +27,4 @@
 <li>Mozilla Firefox Web Browser - Developer Tool </li>
 </ol>
 </br>
-<b>Note: </b>
-<ul>
-<li>THIS API IS UNDER DEVELOPMENT.</li>
-</ul>
-</br>
 </html>
