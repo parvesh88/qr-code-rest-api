@@ -1,4 +1,8 @@
 <html>
+  <head>
+    <meta name="robots" content="follow, index,max-snippet:10, max-image-preview: standard, translate" >
+  </head>
+  <body>
 <b>API ENDPOINT</b>
 </br>
 <pre><strike>http://147.139.40.53/QRC/api</strike></pre>
@@ -27,4 +31,5 @@
 <li>Mozilla Firefox Web Browser - Developer Tool </li>
 </ol>
 </br>
+  </body>
 </html>
